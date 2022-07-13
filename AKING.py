@@ -17,4 +17,4 @@ elif bit == '32bit':
     print(' Join Over Facebook Group For Any Help 😍 ')
     os.system('xdg-open https://www.facebook.com/groups/351076900316263/?ref=share');time.sleep(3)
     print('Soon')
-    main()
+    exit()
