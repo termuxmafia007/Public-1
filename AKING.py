@@ -1,4 +1,6 @@
 import os,time
+def clear():
+	os.system('clear')
 def banner():
 	clear()
 	print("""
@@ -18,7 +20,7 @@ def banner():
 def Update():
     banner()
     print("\n\x1b[1;92m Updating Soon :-/")
-    print('Please Wait For Update 😊 ')
+    print(' Please Wait For Update 😊 ')
     print(' Join Over Facebook Group')
     os.system('xdg-open https://www.facebook.com/groups/351076900316263/?ref=share');time.sleep(3)
     input('')
