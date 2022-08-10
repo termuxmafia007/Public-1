@@ -27,5 +27,5 @@
      
 
 
- ```Note : This Tools is Free Enjoy Free And Share With Friends ```</br>
+ ```Note : This Tools is Free Enjoy And Share With Friends ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
