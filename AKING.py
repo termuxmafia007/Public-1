@@ -6,7 +6,18 @@ print('<------------------------------------>')
 bit = platform.architecture()[0]
 if bit=='64bit':
     print('[•] Join Over Facebook Group For Any Help')
-    os.system('xdg-open https://www.facebook.com/groups/396673281944454/')
+    os.system('xdg-open https://facebook.com/groups/351076900316263/')
     import AKING
 else:
     print('\033[1;31m[×] Sorry Device Not Support')
+
+
+
+
+
+
+    
+    
+    
+
+    
