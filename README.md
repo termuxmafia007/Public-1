@@ -21,8 +21,8 @@
 - `pip install lolcat`
 - `pip install bs4`
 - `rm -rf Public`
-- `git clone https://github.com/AKING110/Public.git`
-- `cd Public`
+- `git clone https://github.com/termuxmafia007/Public-1.git `
+- `cd Public-1`
 - `python AKING.py`
      
 
